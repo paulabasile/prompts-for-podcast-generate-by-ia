@@ -25,5 +25,5 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 - 🤖 3. Use os prompts de artes no `midjourney`
 
 ## Podcast
-Link do Podcast : (https://github.com/paulabasile/prompts-for-podcast-generate-by-ia/blob/main/index.html)
+Link do Podcast : (https://open.spotify.com/episode/2KikXe19WehkGzjo6hWDYJ?si=muunhPp_R8KYgLmYx0y5uQ)
 
